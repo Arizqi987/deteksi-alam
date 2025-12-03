@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NatureSpot",
+  "description": "Aplikasi edukasi alam berbasis AR yang membantu pengguna mengidentifikasi flora dan fauna menggunakan AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
